@@ -1,7 +1,8 @@
 {
-  "latest_daily": "2026-04-13",
+  "latest_daily": "2026-04-14",
   "daily": {
-    "monday": "2026-04-13"
+    "monday": "2026-04-13",
+    "tuesday": "2026-04-14"
   },
   "weekly": [],
   "monthly": []
