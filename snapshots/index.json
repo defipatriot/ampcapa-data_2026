@@ -1,13 +1,16 @@
 {
-  "latest_daily": "2026-04-18",
+  "latest_daily": "2026-04-19",
   "daily": {
     "monday": "2026-04-13",
     "tuesday": "2026-04-14",
     "wednesday": "2026-04-15",
     "thursday": "2026-04-16",
     "friday": "2026-04-17",
-    "saturday": "2026-04-18"
+    "saturday": "2026-04-18",
+    "sunday": "2026-04-19"
   },
-  "weekly": [],
+  "weekly": [
+    "epoch-181-2026-04-19"
+  ],
   "monthly": []
 }
