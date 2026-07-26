@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "cron": "ampcapa",
-  "capturedAt": "2026-07-25T23:50:29.696Z",
-  "capturedAtUnix": 1785023429696,
+  "capturedAt": "2026-07-26T23:50:29.413Z",
+  "capturedAtUnix": 1785109829413,
   "status": "ok",
-  "next_expected_run_at": "2026-07-27T00:50:29.696Z",
+  "next_expected_run_at": "2026-07-28T00:50:29.413Z",
   "stats": {
-    "latest_daily": "2026-07-25"
+    "latest_daily": "2026-07-26"
   }
 }
