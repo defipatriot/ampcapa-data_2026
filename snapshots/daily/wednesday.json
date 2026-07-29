@@ -1,228 +1,220 @@
 {
   "meta": {
-    "timestamp": "2026-07-22T23:50:26.170Z",
-    "date": "2026-07-22",
+    "timestamp": "2026-07-29T23:50:26.776Z",
+    "date": "2026-07-29",
     "dayName": "wednesday",
-    "epoch": 195,
-    "epochStart": "2026-07-20T00:00:00Z",
-    "epochEnd": "2026-07-27T00:00:00Z"
+    "epoch": 196,
+    "epochStart": "2026-07-27T00:00:00Z",
+    "epochEnd": "2026-08-03T00:00:00Z"
   },
   "rates": {
-    "rateStaking": 1.1055377425629014,
-    "rateVe3": 2.0038940546155843
+    "rateStaking": 1.1055377425630382,
+    "rateVe3": 2.0142690502487692
   },
   "summary": {
     "totalMembers": 34,
-    "activeStakers": 27,
-    "totalCapa": 35033946.32
+    "activeStakers": 26,
+    "totalCapa": 35247432.34
   },
   "members": [
     {
       "address": "terra1hr8zsfpch47qygc96c8e6rzkd2t7mafqx77ulw",
-      "rawBalance": 3537142614098,
-      "ampLP": 3537142.614098,
-      "ampCapa": 7088059.054718,
-      "capa": 7836116.806506,
-      "vpPct": 22.3672
+      "rawBalance": 3551771324107,
+      "ampLP": 3551771.324107,
+      "ampCapa": 7154223.05171,
+      "capa": 7909263.60238,
+      "vpPct": 22.4393
     },
     {
       "address": "terra1mz0yrsh0n3l8qd6z42jmj8c2kqqddk5pguy098",
       "rawBalance": 2765223767393,
       "ampLP": 2765223.767393,
-      "ampCapa": 5541215.467161,
-      "capa": 6126022.838619,
-      "vpPct": 17.486
+      "ampCapa": 5569904.651672,
+      "capa": 6157739.814901,
+      "vpPct": 17.47
     },
     {
       "address": "terra1ncq35s00rl52gcdkc4p6javc9hh2yenztuy5cf",
       "rawBalance": 2534162845605,
       "ampLP": 2534162.845605,
-      "ampCapa": 5078193.859736,
-      "capa": 5614134.975989,
-      "vpPct": 16.0248
+      "ampCapa": 5104485.788193,
+      "capa": 5643201.695223,
+      "vpPct": 16.0102
     },
     {
       "address": "terra127cphudgx75grhaw0wwawx668u8ux2h9zwn553",
       "rawBalance": 1998818955604,
       "ampLP": 1998818.955604,
-      "ampCapa": 4005421.421388,
-      "capa": 4428144.556214,
-      "vpPct": 12.6396
+      "ampCapa": 4026159.159324,
+      "capa": 4451070.908198,
+      "vpPct": 12.6281
     },
     {
       "address": "terra1smtdazt63vul9xjqyxh8k7gy2rcac60t6lu9ja",
       "rawBalance": 1500000000000,
       "ampLP": 1500000,
-      "ampCapa": 3005841.081923,
-      "capa": 3323070.764212,
-      "vpPct": 9.4853
+      "ampCapa": 3021403.575373,
+      "capa": 3340275.68809,
+      "vpPct": 9.4766
     },
     {
       "address": "terra1usjenjrtavqd6rxj8ctfl9tte828lmjcrk8ctx",
       "rawBalance": 750000000000,
       "ampLP": 750000,
-      "ampCapa": 1502920.540962,
-      "capa": 1661535.382106,
-      "vpPct": 4.7426
+      "ampCapa": 1510701.787687,
+      "capa": 1670137.844045,
+      "vpPct": 4.7383
     },
     {
       "address": "terra18au39029aa4mey00fap4l74c936l8efjuqhf6u",
       "rawBalance": 499711494411,
       "ampLP": 499711.494411,
-      "ampCapa": 1001368.892673,
-      "capa": 1107051.105079,
-      "vpPct": 3.1599
+      "ampCapa": 1006553.397246,
+      "capa": 1112782.77056,
+      "vpPct": 3.1571
     },
     {
       "address": "terra14fwtmfhqu2rgyhqf99ndquzsw93027uthep5fc",
       "rawBalance": 380427891103,
       "ampLP": 380427.891103,
-      "ampCapa": 762337.189191,
-      "capa": 842792.53521,
-      "vpPct": 2.4056
+      "ampCapa": 766284.1269,
+      "capa": 847156.023815,
+      "vpPct": 2.4035
     },
     {
       "address": "terra1myw3av4f2rmzzgltthdvw0jxkkvp8tg2kxz0jz",
       "rawBalance": 362582970638,
       "ampLP": 362582.970638,
-      "ampCapa": 726577.859166,
-      "capa": 803259.246219,
-      "vpPct": 2.2928
+      "ampCapa": 730339.655903,
+      "capa": 807418.054492,
+      "vpPct": 2.2907
     },
     {
       "address": "terra15g4l56kwce6r2whmgdeknwdjwx0jttdxrx7jz5",
       "rawBalance": 347636696427,
       "ampLP": 347636.696427,
-      "ampCapa": 696627.109136,
-      "capa": 770147.561643,
-      "vpPct": 2.1983
+      "ampCapa": 700233.838344,
+      "capa": 774134.936909,
+      "vpPct": 2.1963
     },
     {
       "address": "terra1080fppanw9vmtnfyslyug03rj955z7w5z95nzl",
       "rawBalance": 302594342152,
       "ampLP": 302594.342152,
-      "ampCapa": 606367.003199,
-      "capa": 670361.607881,
-      "vpPct": 1.9135
+      "ampCapa": 609506.418177,
+      "capa": 673832.349629,
+      "vpPct": 1.9117
     },
     {
       "address": "terra13da2cgw68gx3wl4xq7spkrfveg4eqk5mz4znlk",
       "rawBalance": 263440406461,
       "ampLP": 263440.406461,
-      "ampCapa": 527906.664253,
-      "capa": 583620.741882,
-      "vpPct": 1.6659
+      "ampCapa": 530639.857319,
+      "capa": 586642.389975,
+      "vpPct": 1.6644
     },
     {
       "address": "terra1syezgfuee9qck6490fxvruwnyq78gs5jv8dd2q",
       "rawBalance": 186376264788,
       "ampLP": 186376.264788,
-      "ampCapa": 373478.28893,
-      "capa": 412894.34444,
-      "vpPct": 1.1786
+      "ampCapa": 375411.941863,
+      "capa": 415032.070739,
+      "vpPct": 1.1775
     },
     {
       "address": "terra1samy8498em77dulzl36gr070xkcyuk97nc5que",
       "rawBalance": 151971993685,
       "ampLP": 151971.993685,
-      "ampCapa": 304535.774613,
-      "capa": 336675.792796,
-      "vpPct": 0.961
+      "ampCapa": 306112.483384,
+      "capa": 338418.903851,
+      "vpPct": 0.9601
     },
     {
       "address": "terra17kd3mufq333r0hmuprn2gsamfkveljg0eqaqed",
       "rawBalance": 78479506943,
       "ampLP": 78479.506943,
-      "ampCapa": 157264.617372,
-      "capa": 173861.970075,
-      "vpPct": 0.4963
+      "ampCapa": 158078.841914,
+      "capa": 174762.126037,
+      "vpPct": 0.4958
     },
     {
       "address": "terra1gl8pr2xghfetskkd60ev6sy79mnlylmcdf8ppe",
       "rawBalance": 56623182762,
       "ampLP": 56623.182762,
-      "ampCapa": 113466.85929,
-      "capa": 125441.895475,
-      "vpPct": 0.3581
+      "ampCapa": 114054.324564,
+      "capa": 126091.360508,
+      "vpPct": 0.3577
     },
     {
       "address": "terra1x9jh7pl623jaj8dlt4q53mpmv5mv5nlpzdpxfs",
       "rawBalance": 44467113937,
       "ampLP": 44467.113937,
-      "ampCapa": 89107.385244,
-      "capa": 98511.577529,
-      "vpPct": 0.2812
+      "ampCapa": 89568.731357,
+      "capa": 99021.613069,
+      "vpPct": 0.2809
     },
     {
       "address": "terra1q0q3gw737l3xqzpeewkc3t42y7pddg40tvuktr",
       "rawBalance": 17005633358,
       "ampLP": 17005.633358,
-      "ampCapa": 34077.487581,
-      "capa": 37673.948693,
-      "vpPct": 0.1075
+      "ampCapa": 34253.920953,
+      "capa": 37869.002444,
+      "vpPct": 0.1074
     },
     {
       "address": "terra14gvc6zysjwcxthan290sjhddk365tdkzzn7a53",
       "rawBalance": 11945399131,
       "ampLP": 11945.399131,
-      "ampCapa": 23937.314299,
-      "capa": 26463.604413,
+      "ampCapa": 24061.247762,
+      "capa": 26600.617535,
       "vpPct": 0.0755
     },
     {
       "address": "terra1zla8ld2ewhenmyf5l0f0guxq00z3653mqumcgr",
       "rawBalance": 9467790719,
       "ampLP": 9467.790719,
-      "ampCapa": 18972.449532,
-      "capa": 20974.759027,
-      "vpPct": 0.0599
+      "ampCapa": 19070.67782,
+      "capa": 21083.354106,
+      "vpPct": 0.0598
     },
     {
       "address": "terra1fzp26u2ph6yyd3uthf38zf3amyslufct3276ml",
       "rawBalance": 7326561451,
       "ampLP": 7326.561451,
-      "ampCapa": 14681.652932,
-      "capa": 16231.12144,
+      "ampCapa": 14757.665975,
+      "capa": 16315.156728,
       "vpPct": 0.0463
     },
     {
       "address": "terra1tvemey847va2gc3tl2626hcxzp37knmy3x8a9q",
       "rawBalance": 5790361168,
       "ampLP": 5790.361168,
-      "ampCapa": 11603.270319,
-      "capa": 12827.853274,
+      "ampCapa": 11663.34529,
+      "capa": 12894.268423,
       "vpPct": 0.0366
     },
     {
       "address": "terra10ldzm9m9jj2ngceey9weneu8x0dz22dq06r9uv",
       "rawBalance": 1316546030,
       "ampLP": 1316.54603,
-      "ampCapa": 2638.218762,
-      "capa": 2916.650415,
+      "ampCapa": 2651.877921,
+      "capa": 2931.751131,
       "vpPct": 0.0083
     },
     {
       "address": "terra13mypj4s89p56wcq5a3s2tch5kuw7w3945973pw",
       "rawBalance": 1169921247,
       "ampLP": 1169.921247,
-      "ampCapa": 2344.398231,
-      "capa": 2591.820728,
+      "ampCapa": 2356.536159,
+      "capa": 2605.239666,
       "vpPct": 0.0074
-    },
-    {
-      "address": "terra1w2vmuy5exxl7guxlypyz06cwm4cvpua2qall66",
-      "rawBalance": 213435874,
-      "ampLP": 213.435874,
-      "ampCapa": 427.702879,
-      "capa": 472.841675,
-      "vpPct": 0.0013
     },
     {
       "address": "terra1t2v52y6sazlewjpxg6vdy62u9dn23txl7hrn8m",
       "rawBalance": 67715959,
       "ampLP": 67.715959,
-      "ampCapa": 135.695608,
-      "capa": 150.016616,
+      "ampCapa": 136.39816,
+      "capa": 150.793314,
       "vpPct": 0.0004
     },
     {
@@ -275,6 +267,14 @@
     },
     {
       "address": "terra1jv2qj2qx0qndrs0qgxq8thq45z0w2uc733pwcq",
+      "rawBalance": 0,
+      "ampLP": 0,
+      "ampCapa": 0,
+      "capa": 0,
+      "vpPct": 0
+    },
+    {
+      "address": "terra1w2vmuy5exxl7guxlypyz06cwm4cvpua2qall66",
       "rawBalance": 0,
       "ampLP": 0,
       "ampCapa": 0,
